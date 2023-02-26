@@ -11,6 +11,7 @@ public class launchBrowser
         System.setProperty("webdriver.chrome.driver", "drivers/chromedriver.exe");
         WebDriver driver=new ChromeDriver();
         driver.get("https://www.google.com");
-        Assert.assertEquals("ravikant","kant");
+        Assert.assertEquals("ravikant","ravikant");
+        driver.close();
     }
 }

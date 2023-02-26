@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test name="S:/SeleniumNotesRiyanshi(failed)">
+    <classes>
+      <class name="launchBrowser">
+        <methods>
+          <include name="launch"/>
+        </methods>
+      </class> <!-- launchBrowser -->
+    </classes>
+  </test> <!-- S:/SeleniumNotesRiyanshi(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->

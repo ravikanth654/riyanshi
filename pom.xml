@@ -254,7 +254,7 @@
                 <configuration>
                     <suiteXmlFiles>
                         <!--file>src/test/resources/TestSuits/Suites.xml</file-->>
-                        <file>S:\finalAllProjects\SelleniumScripts\testng2.xml</file>
+                        <file>S:\SeleniumNotesRiyanshi\testng.xml</file>
                         <!--<file>src/test/resources/TestSuits/lightbox.wallet.mpesa.xml</file>-->
                     </suiteXmlFiles>
                     <properties>

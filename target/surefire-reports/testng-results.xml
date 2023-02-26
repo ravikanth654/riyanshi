@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-26T17:54:10Z" name="All Test Suite" finished-at="2023-02-26T17:54:19Z" duration-ms="8873">
+    <groups>
+    </groups>
+    <test started-at="2023-02-26T17:54:10Z" name="S:/SeleniumNotesRiyanshi" finished-at="2023-02-26T17:54:19Z" duration-ms="8873">
+      <class name="launchBrowser">
+        <test-method signature="launch()[pri:0, instance:launchBrowser@6f45df59]" started-at="2023-02-26T23:24:10Z" name="launch" finished-at="2023-02-26T23:24:19Z" duration-ms="8863" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+      </class> <!-- launchBrowser -->
+    </test> <!-- S:/SeleniumNotesRiyanshi -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
